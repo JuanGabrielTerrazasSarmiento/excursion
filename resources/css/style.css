@@ -43,3 +43,10 @@ body {
 .phone-image {
 	text-align: center;
 }
+
+.copyright-text {
+	color: gray;
+	font-size: 21px;
+	font-family: verdana;
+	text-align: right;
+}
